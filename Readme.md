@@ -14,4 +14,4 @@ Project uses all standard practices like JWT, bcrypt, access tokens, refresh Tok
 ---
 Top Contributer to complete all TODOs
 
-1. Spiderman (just sample)
+1. Spiderman (just sample).
